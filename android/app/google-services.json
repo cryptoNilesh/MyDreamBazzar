@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702758118349",
+    "project_id": "satishuserapp",
+    "storage_bucket": "satishuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702758118349:android:d2b349774bb33282e91a84",
+        "android_client_info": {
+          "package_name": "com.dream.bazzar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702758118349-imiio5pn0ojvp856ahg0fhr8qaagjt2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqwTJysUAqDWTXEOnwI4uqllLvkz7rsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702758118349-imiio5pn0ojvp856ahg0fhr8qaagjt2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
